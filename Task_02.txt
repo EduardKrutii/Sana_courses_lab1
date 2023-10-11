@@ -1,1 +1,3 @@
 It`s a second document for topic 2
+
+Some new information
