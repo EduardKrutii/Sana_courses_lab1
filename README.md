@@ -41,3 +41,4 @@
 
 Виконав: **Крутій Едуард**
 
+Email: edikkrutiy@gmail.com or ipz233_keyu@student.ztu.edu.ua
