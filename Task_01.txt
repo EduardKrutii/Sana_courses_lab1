@@ -1,3 +1,5 @@
 Hi there, it`s a first task from "Sana Software Development Courses `24"
 I added new line
 I don`t know what write 
+
+Now it Tuesday, the 24 of October 07:34
